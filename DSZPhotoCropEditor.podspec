@@ -10,8 +10,7 @@ Pod::Spec.new do |s|
   s.author             = { "Apple" => "dsz" }
   s.platform     = :ios, '8.0'
   s.source       = { :git => "https://github.com/DSZ911226/DSZPhotoCropEditor.git", :tag => s.version }
-  s.source_files  = "DSZPhotoCropEditor/*.{h,m,swift}"
-  s.resource_bundles = "DSZPhotoCropEditor/resources/*.png"
+  s.source_files  = "DSZPhotoCropEditor/**/**/*"
   s.exclude_files = "Classes/Exclude"
 
 
