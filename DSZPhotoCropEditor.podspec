@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "DSZPhotoCropEditor"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Image Crop Editor"
   s.homepage     = "https://github.com/DSZ911226/DSZPhotoCropEditor.git"
   s.license      = { :type => "MIT", :file => "LICENSE" }
